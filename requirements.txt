@@ -1,0 +1,1 @@
+-e git+https://github.com/fm-0509/notion-py-fix.git@#egg=notion
