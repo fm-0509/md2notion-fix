@@ -7,6 +7,14 @@
 
 # Notion.so Markdown Importer
 
+## Fork Notes:
+ * It is advised to create a python venv to install it with * `python3 -m venv venv-name`
+ * To use it install requirements first with pip3 with * `pip3 install -r requirements.txt`
+ * Then install it with * `pip3 install ./`: warnings are displayed but the installation works
+
+---
+
+
 An importer for Markdown files to [Notion.so](https://notion.so) using [`notion-py`](https://github.com/jamalex/notion-py)
 
 It provides these features over Notion.so's Markdown importer:
